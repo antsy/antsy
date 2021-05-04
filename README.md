@@ -1,6 +1,8 @@
-### Hi there 👋
+![thanks https://oldassgifs.tumblr.com/post/56805305307/92303](https://github.com/antsy/antsy/blob/main/most-annoying-ad-banner.gif)
 
 <!--
+### Hi there 👋
+
 **antsy/antsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
